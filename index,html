@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>skyline X</title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+
+    <!-- My header menu start here -->
+    
+    <div class="container">
+
+        <div class="logo">
+    <img src="https://skylineict.com/wp-content/uploads/2019/03/LOGO.png" alt="">
+        </div>
+
+    <div class="nav">
+
+        <ul>
+            <li><a href="#">Wordpress</a></li>
+            <li><a href="#">Websites </a></li>
+            <li><a href="#">Hosting </a></li>
+            <li><a href="#">Domain</a></li>
+            <li><a href="#">email</a></li>
+            <li><a href="#">Pro services <span class="new">new</span></a></li>
+            <li><a href="#">Academy</a></li>
+
+
+        </ul>
+    </div>
+
+    <div class="login">
+
+        <a href="#" class="btn btn-login">log in</a>
+        <a href="#" class="btn btn-signup">Get started</a>
+    </div>
+
+</div>
+
+<!-- my header menu ends here -->
+
+<div class="section">
+
+    <div class="title">
+
+        <h1>Join over 700 million registered users who trust Dropbox</h1>
+        <p>Easy to use, reliable, private, and secure. It’s no wonder Dropbox is the choice for storing and sharing your most important files.</p>
+    </div>
+
+    <div class="btn-file">
+
+        <a href="#" class="btn-find">Find your plan</a>
+    </div>
+
+    <div class="img">
+
+        <img src="https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/en-us/dropbox/homepage-static-fallback-alt.jpg?id=530d59cf-b22a-49b8-a762-dad1436ae1e1&width=828&output_type=webp" alt="">
+    </div>
+
+    <div class="service">
+        <h3>See what sets Dropbox apart</h3>
+
+
+        <div class="services-item">
+
+            <div class="one service-One">
+        <i class="fa-solid fa-folder icon"></i>
+            <p>Your files, not ours</p>
+            <p>With Dropbox, your files belong to you, not us, so you can be sure we’re not reselling your data.</p>
+
+        </div>
+
+        <div class="one service-Two">
+            <i class="fa-solid fa-folder icon"></i>
+
+        <p>All your files in one place</p> 
+            <p>Store computer backups, photo libraries, thousands of documents—all your files, in the same place.</p>
+
+        </div>
+        <div class="one service-Three">
+            <i class="fa-solid fa-folder icon"></i>
+
+            <p>One-of-a-kind functionality</p>
+            <p>Store files as large as 2 TB each, sync at light speed, and allow anyone to preview nearly 200 file types.</p>
+
+        </div>
+
+        <div class="one service-Four">
+            <i class="fa-solid fa-folder icon"></i>
+
+            <p>Ease of use and security</p>
+            <p>2/3 of surveyed users say Dropbox keeps their files more secure and we’re a leader in ease of use.</p>
+            
+        </div>
+
+    </div>
+
+
+</div>
+
+
+</div>
+
+
+            
+
+
+
+</div>
+</body>
+</html>
